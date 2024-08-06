@@ -1,0 +1,13 @@
+.noticias{
+    background-color: lightpink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.noticias img{
+    width: 300px;
+    height: auto;
+    margin: 5px;
+}

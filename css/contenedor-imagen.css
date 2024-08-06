@@ -1,0 +1,12 @@
+#imagenes-contenedor{
+    background-color:lightgreen;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#imagenes-contenedor img{
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}

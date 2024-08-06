@@ -1,0 +1,19 @@
+#video-contenedor{
+    background-color: lightskyblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2%;
+}
+
+#videos{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+#video-contenedor iframe{
+    width: 200px;
+    height: auto;
+}
